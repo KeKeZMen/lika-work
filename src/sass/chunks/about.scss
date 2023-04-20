@@ -1,0 +1,21 @@
+.about {
+  height: 100vh;
+
+  &__img{
+    margin-bottom: 70px;
+  }
+
+  &__text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+
+    &__element {
+      text-align: center;
+      font-weight: 700;
+      font-size: 27px;
+      line-height: 130%;
+    }
+  }
+}

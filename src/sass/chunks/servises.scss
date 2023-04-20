@@ -1,0 +1,30 @@
+.services {
+  &__elements {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+
+    &__element {
+      margin-bottom: 60px;
+
+      &__img {
+        border: 1px solid #cdaa7d;
+        height: 300px;
+        width: 396px;
+        position: relative;
+        margin-bottom: 50px;
+
+        & img {
+          position: absolute;
+          top: 20px;
+          right: 20px;
+        }
+      }
+
+      p {
+        font-weight: 400;
+        font-size: 30px;
+      }
+    }
+  }
+}

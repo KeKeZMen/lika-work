@@ -1,0 +1,26 @@
+.works {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 100px;
+
+  &__title {
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 80px;
+  }
+
+  &__images {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    row-gap: 24px;
+    column-gap: 24px;
+
+    &__image{
+        height: 416px;
+        width: 416px;
+    }
+  }
+}

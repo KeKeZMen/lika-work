@@ -1,0 +1,71 @@
+.menu {
+  position: fixed;
+  height: 100vh;
+  right: 0;
+  display: none;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 475px;
+  background-color: #111111;
+  z-index: 100;
+  padding: 42px 80px;
+
+  &__text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: justify;
+    margin-bottom: 80px;
+  }
+
+  &__contacts {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 60px;
+
+    &__title {
+      font-weight: 700;
+      font-size: 24px;
+      margin-bottom: 25px;
+    }
+
+    &__phone {
+      margin-bottom: 15px;
+      font-weight: 400;
+      font-size: 18px;
+    }
+
+    &__adress {
+      margin-bottom: 15px;
+      font-weight: 400;
+      font-size: 18px;
+    }
+  }
+
+  &__regime {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 246px;
+
+    &__title {
+      margin-bottom: 25px;
+      font-weight: 700;
+      font-size: 24px;
+    }
+
+    &__time {
+      font-weight: 400;
+      font-size: 18px;
+      margin-bottom: 15px;
+    }
+  }
+
+  &.opened {
+    display: flex;
+  }
+}

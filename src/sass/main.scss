@@ -1,1 +1,15 @@
-@import "./chunks/base.scss"
+@import "./chunks/base.scss";
+@import "./chunks/menu.scss";
+@import "./chunks/header.scss";
+@import "./chunks/about.scss";
+@import "./chunks/servises.scss";
+@import "./chunks/cosmetics.scss";
+@import "./chunks/works.scss";
+@import "./chunks/footer.scss";
+
+.footer__copyright {
+  margin-bottom: 30px;
+  font-weight: 700;
+  font-size: 18px;
+  opacity: 0.5;
+}

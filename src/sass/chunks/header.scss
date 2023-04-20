@@ -1,0 +1,16 @@
+.header__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+
+  @import "./nav.scss";
+
+  &__title {
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 86px;
+    text-align: center;
+    width: 476px;
+  }
+}
