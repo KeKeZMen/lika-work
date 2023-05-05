@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20mm"
+   height="30mm"
+   viewBox="0 0 20 30"
+   version="1.1"
+   id="svg1411"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="маникюр.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1413"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.5620932"
+     inkscape:cx="120.60451"
+     inkscape:cy="86.45275"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1408" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1041"
+       transform="matrix(0.4405509,0,0,0.39990857,-10.238686,-79.333063)">
+      <g
+         id="g13169"
+         transform="translate(-78.13112,16.774995)">
+        <g
+           id="g11396"
+           transform="matrix(0.88474043,0,0,0.86334254,42.426034,118.17645)">
+          <g
+             id="g11394"
+             transform="matrix(0.75939588,0.71244821,-0.59417357,0.75939588,85.735097,-71.789353)">
+            <path
+               id="path11388"
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#af8d70;stroke-width:0.809792;stroke-opacity:1"
+               d="m 110.63516,133.98286 c 0,1.58869 -1.27943,6.10779 -2.67675,6.10779 -1.39732,0 -2.3834,-4.5191 -2.3834,-6.10779 0,-1.58868 1.13275,-2.87656 2.53007,-2.87656 1.39733,0 2.53008,1.28788 2.53008,2.87656 z"
+               sodipodi:nodetypes="sssss" />
+            <rect
+               style="opacity:1;fill:#af8d70;fill-opacity:1;stroke:#af8d70;stroke-width:0.879175;stroke-opacity:1"
+               id="rect11390"
+               width="1.4069153"
+               height="13.911322"
+               x="109.57552"
+               y="119.721"
+               transform="matrix(0.99982423,-0.01874862,-0.01572051,0.99987643,0,0)" />
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#af8d70;stroke-width:1.12019;stroke-opacity:1"
+               id="rect11392"
+               width="13.115089"
+               height="20.240612"
+               x="101.82267"
+               y="97.691925"
+               rx="2.9000001" />
+          </g>
+        </g>
+        <g
+           id="g11828"
+           transform="matrix(0.80511112,0,0,0.78182413,-34.138593,97.627219)">
+          <rect
+             style="opacity:1;fill:none;stroke:#af8d70;stroke-width:1.00007;stroke-opacity:1"
+             id="rect11598"
+             width="16.932688"
+             height="43.954102"
+             x="174.56233"
+             y="156.70546"
+             rx="3.8106542"
+             ry="4.9844971" />
+          <rect
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#af8d70;stroke-width:0.498084;stroke-opacity:1"
+             id="rect11600"
+             width="11.523142"
+             height="18.119814"
+             x="177.36615"
+             y="149.15077"
+             rx="3.0098624"
+             ry="2.0233684" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

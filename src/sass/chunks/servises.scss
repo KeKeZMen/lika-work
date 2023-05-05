@@ -1,11 +1,25 @@
 .services {
+  margin-bottom: 162px;
+
   &__elements {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
+    gap: 44px;
 
     &__element {
       margin-bottom: 60px;
+      
+      &__text{
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        
+        & img{
+          height: 80px;
+          width: 80px;
+        }
+      }
 
       &__img {
         border: 1px solid #cdaa7d;

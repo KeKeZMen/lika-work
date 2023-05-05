@@ -1,5 +1,5 @@
 .nav {
-  padding: 40px 0;
+  padding: 40px 0 20px;
   border-bottom: 1px solid #ffffff;
   margin-bottom: 270px;
   width: 100%;
@@ -16,6 +16,16 @@
       color: #cdaa7d;
       // border-bottom: 1px solid #cdaa7d;
     }
+  }
+
+  &__inst{
+    width: 50px;
+    height: 50px;
+  }
+
+  &__logo{
+    width: 80px;
+    height: 80px;
   }
 
   &__menu {

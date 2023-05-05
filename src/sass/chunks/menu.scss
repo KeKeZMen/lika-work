@@ -65,6 +65,31 @@
     }
   }
 
+  &__button{
+    border: none;
+    outline: none;
+    background: inherit;
+    position: relative;
+    margin-bottom: 100px;
+    cursor: pointer;
+
+    & span{
+      display: block;
+      width: 5px;
+      height: 35px;
+      background-color: white;
+      position: absolute;
+
+      &:first-child{
+        transform: rotate(45deg);
+      }
+
+      &:last-child{
+        transform: rotate(-45deg);
+      }
+    }
+  }
+
   &.opened {
     display: flex;
   }
